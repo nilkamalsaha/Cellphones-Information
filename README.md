@@ -202,3 +202,14 @@ group by idcustomer, year(date)
 
 
 ## Note: Please Find all relevant files in attached folder
+
+## 🔍 Repository File Types
+
+| Repository                          | SQL | Python | Excel | Power BI |
+|-------------------------------------|:---:|:------:|:-----:|:--------:|
+| [Cellphones-Information](#)         | ✅  |        |       |          |
+| [Cleaning-Data-in-Python](#)        |     | ✅     |       |          |
+| [Customer-Churn-with-Power-BI](#)   |     |        | ✅    | ✅       |
+| [Read-a-File-into-Python](#)        |     | ✅     | ✅    |          |
+| [Handling-Missing-Data-by-Python](#)|     | ✅     |       |          |
+
